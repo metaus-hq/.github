@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./imgs/metaus-hq-logo.png" alt="metaus-hq" width="420" />
+<img src="../imgs/metaus-hq-logo.png" alt="metaus-hq" width="420" />
 
 **Gamified squads. Human in the loop. Built in the open.**
 

@@ -45,7 +45,7 @@ Ideas, issues and pull requests are welcome. Open an issue in the relevant repos
 
 ## 👤 Maintainer
 
-Created by **Mateus** ([@metaus](https://github.com/metaus)), software developer based in Minas Gerais, Brazil.
+Created by **Mateus** ([@mateusfilipe](https://github.com/mateusfilipe)), software developer based in Minas Gerais, Brazil.
 
 ---
 
